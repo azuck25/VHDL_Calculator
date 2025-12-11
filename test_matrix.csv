@@ -1,0 +1,8 @@
+Test Values SW0 - SW7,Register C,Operation,Expected Result BCD,Actual Result BCD,
+00000001,00000000,+,1,1,
+00000001,00000001,-,0,0,
+11111111,00000000,+,255,255,
+00000001,11111111,+,256,256,
+00000011,11111111,-,253,3,Fixed error by swaping the registers in the order of operations
+00000011,11111111,-,253,253,
+00001111,1111,,30,30,
