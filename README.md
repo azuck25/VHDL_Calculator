@@ -13,3 +13,8 @@ Implements a double dabble algorithm to preform bitshifting for add/sub operatio
 
 [![Watch the video](https://img.youtube.com/vi/zBZQYhI3wdc/0.jpg)](https://www.youtube.com/watch?v=zBZQYhI3wdc)
 
+
+
+The below waveform was captured in Intel's Quartus Prime IDE 
+
+<img width="2560" height="1396" alt="image" src="https://github.com/user-attachments/assets/3abfde67-7e64-479f-8d5e-615e43e26551" />
